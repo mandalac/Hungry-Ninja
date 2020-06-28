@@ -1,0 +1,11 @@
+/Users/vasilimandalac/Desktop/Coding_Dojo/C_Sharp/OOP /Hungry_Ninja/bin/Debug/netcoreapp2.2/Hungry_Ninja.deps.json
+/Users/vasilimandalac/Desktop/Coding_Dojo/C_Sharp/OOP /Hungry_Ninja/bin/Debug/netcoreapp2.2/Hungry_Ninja.runtimeconfig.json
+/Users/vasilimandalac/Desktop/Coding_Dojo/C_Sharp/OOP /Hungry_Ninja/bin/Debug/netcoreapp2.2/Hungry_Ninja.runtimeconfig.dev.json
+/Users/vasilimandalac/Desktop/Coding_Dojo/C_Sharp/OOP /Hungry_Ninja/bin/Debug/netcoreapp2.2/Hungry_Ninja.dll
+/Users/vasilimandalac/Desktop/Coding_Dojo/C_Sharp/OOP /Hungry_Ninja/bin/Debug/netcoreapp2.2/Hungry_Ninja.pdb
+/Users/vasilimandalac/Desktop/Coding_Dojo/C_Sharp/OOP /Hungry_Ninja/obj/Debug/netcoreapp2.2/Hungry_Ninja.csprojAssemblyReference.cache
+/Users/vasilimandalac/Desktop/Coding_Dojo/C_Sharp/OOP /Hungry_Ninja/obj/Debug/netcoreapp2.2/Hungry_Ninja.csproj.CoreCompileInputs.cache
+/Users/vasilimandalac/Desktop/Coding_Dojo/C_Sharp/OOP /Hungry_Ninja/obj/Debug/netcoreapp2.2/Hungry_Ninja.AssemblyInfoInputs.cache
+/Users/vasilimandalac/Desktop/Coding_Dojo/C_Sharp/OOP /Hungry_Ninja/obj/Debug/netcoreapp2.2/Hungry_Ninja.AssemblyInfo.cs
+/Users/vasilimandalac/Desktop/Coding_Dojo/C_Sharp/OOP /Hungry_Ninja/obj/Debug/netcoreapp2.2/Hungry_Ninja.dll
+/Users/vasilimandalac/Desktop/Coding_Dojo/C_Sharp/OOP /Hungry_Ninja/obj/Debug/netcoreapp2.2/Hungry_Ninja.pdb
